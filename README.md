@@ -1,0 +1,1 @@
+# wezzy_license
